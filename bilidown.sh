@@ -1,5 +1,4 @@
-#if
-
+#Check for appropriate commands being installed
 if which node lynx ffmpeg
 then
 	echo "Found necessary commands."
